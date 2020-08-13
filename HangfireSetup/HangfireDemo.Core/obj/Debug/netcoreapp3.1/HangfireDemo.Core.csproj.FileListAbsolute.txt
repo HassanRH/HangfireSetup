@@ -1,0 +1,7 @@
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\bin\Debug\netcoreapp3.1\HangfireDemo.Core.deps.json
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\bin\Debug\netcoreapp3.1\HangfireDemo.Core.dll
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\bin\Debug\netcoreapp3.1\HangfireDemo.Core.pdb
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\obj\Debug\netcoreapp3.1\HangfireDemo.Core.AssemblyInfoInputs.cache
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\obj\Debug\netcoreapp3.1\HangfireDemo.Core.AssemblyInfo.cs
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\obj\Debug\netcoreapp3.1\HangfireDemo.Core.dll
+C:\Users\hassan.hussain\source\repos\HangfireSetup\HangfireDemo.Core\obj\Debug\netcoreapp3.1\HangfireDemo.Core.pdb
